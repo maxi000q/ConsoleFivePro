@@ -20,3 +20,5 @@ discord https://discord.gg/NQgP9JxtU3
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=maxi000q/consolefivepro&type=date&legend=top-left" />
  </picture>
 </a>
+
+<sup>[Third-Party Software](THIRD_PARTY_NOTICES.md)</sup>
